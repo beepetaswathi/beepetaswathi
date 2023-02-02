@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning markdown
 - 👯 I’m looking to collaborate on github desktop
 - 🤔 I’m looking for help with github.com
-- 💬 Ask me about repositories
+- 💬 Ask me about github desktop
 - 📫 How to reach me: ms teams
 - 😄 Pronouns: she/he
 - ⚡ Fun fact: A crocodile cannot stick its tongue out.
